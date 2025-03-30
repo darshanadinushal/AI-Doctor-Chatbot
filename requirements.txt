@@ -9,4 +9,3 @@ langchain_community
 langchain_openai
 langchain_experimental
 langchain-huggingface==0.1.2
--e .
