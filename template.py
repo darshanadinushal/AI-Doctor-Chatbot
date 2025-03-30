@@ -14,7 +14,8 @@ list_of_files = [
     "app.py",
     "research/trials.ipynb",
     "templates/chat.html",
-    "static/style.css"
+    "static/style.css",
+    ".github/workflows/cicd.yaml"
 ]
 
 
